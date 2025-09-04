@@ -5,7 +5,9 @@ Name: Emaan Masood
 Degree Program: BS Computer Science - FAST University
 <br/>
 <br/>
-**Interest in Programming**
+
+_Interest in Programming_
+
 <br/>
 1. Learning the fundamentals of coding and problem solving <br/>
 2. Exploring algorithms and data structures <br/>
