@@ -12,4 +12,5 @@ Degree Program: BS Computer Science - FAST University
 3. Understanding object oriented programming
 
 <br/>
+<br/>
 Hobby: Reading and exploring new technologies 
